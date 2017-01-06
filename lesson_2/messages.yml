@@ -1,0 +1,23 @@
+welcome: "Welcome to Calculator! Enter a name:"
+
+valid_name: "Make sure to enter a valid name."
+
+first_num: "What is your first number?"
+
+not_val_num: "That is not a valid number. Pick again."
+
+second_num: "What is your second number?"
+
+# opp1: <<-MSG 
+# What are you trying to do? 
+#     1. Add
+#     2. Subtract
+#     3. Multiply
+#     4. Divide
+#   MSG
+
+opp_prompt: "Enter 1, 2, 3, 4"
+
+#ans: "Your answer is #{result}"
+
+another?: "Would you like to do another? (Y or N)"
